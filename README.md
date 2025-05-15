@@ -1,4 +1,4 @@
-# 📘 JavaScript: Guia Descritivo — Exercícios e Anotações
+# 📘 JavaScript: Guia Definitivo — Exercícios e Anotações
 
 Este repositório contém minhas anotações e resoluções de exercícios baseados no livro **JavaScript: Guia Definitivo**. O objetivo é consolidar o aprendizado e servir como material de consulta para revisões futuras.
 
@@ -21,6 +21,6 @@ A organização dos arquivos segue a estrutura de capítulos do livro:
 
 📚 Referência
 
-    Livro: JavaScript: Guia Descritivo
+    Livro: JavaScript: Guia Definitivo
 
     Autor: David Flanagan
