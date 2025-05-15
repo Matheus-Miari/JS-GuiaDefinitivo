@@ -1,0 +1,13 @@
+// TUdo que vem apos as barras duplas e comentario
+
+// VARIAVEL e um nome simbolico para um valor
+
+// valores podem ser atribuidos as variasveis com sinals de =
+
+// NUMEROS = APENAS UM TIPO PARA INTEIROS E REIAS
+
+// STRIGNS = EM ASPAS OU APOSTROFOS
+
+// VALORES BOOLEANOS
+
+// NULL = nenhum valor
