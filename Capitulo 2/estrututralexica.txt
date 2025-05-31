@@ -1,0 +1,8 @@
+A estrutura léxica de uma linguagem de programação é o conjunto de regras 
+elementares que es- pecificam o modo de escrever programas nessa linguagem.
+É a sintaxe de nível mais baixo de uma linguagem; 
+especifica detalhes de como são os nomes de variáveis, 
+os caracteres delimitadores para comentários e como uma instrução do 
+programa é separada da seguinte. Este breve capítulo documenta 
+a estrutura léxica de JavaScript.
+

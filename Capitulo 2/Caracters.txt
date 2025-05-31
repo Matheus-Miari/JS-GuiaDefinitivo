@@ -1,0 +1,9 @@
+Os programas JavaScript são escritos com o 
+conjunto de caracteres Unicode. Unicode é um 
+superconjunto de ASCII e Latin-1 e suporta praticamente 
+todos os idiomas escritos usados hoje no planeta. 
+A ECMAScript 3 exige que as implementações de JavaScript 
+suportem Unicode versão 2.1 ou posterior e a ECMAScript 5 e
+xige que as implementações suportem Unicode 3 ou posterior.
+ Consulte o quadro na Seção 3.2 para mais informações sobre 
+ Unicode e JavaScript.
